@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: prototype
+# key: pro
+# --
+${1:className}.protoype.${2:functionName} = function (${3:arg}) {
+		 $0
+}
